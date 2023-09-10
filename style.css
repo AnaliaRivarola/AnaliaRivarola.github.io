@@ -76,9 +76,14 @@ button:active {
 }
 
 .resultado {
-    color: #0A81D1;
-    font-weight: bold;
-    font-size: 25px;
+    color: #ee2143;
+    font-size: 18px;
     margin-bottom: 5px;
     display: none;
+}
+
+#metodo {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
 }
